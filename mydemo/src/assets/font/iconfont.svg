@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="xiangqing" unicode="&#58897;" d="M512 512H320c-17.7 0-32 14.3-32 32s14.3 32 32 32h192c17.7 0 32-14.3 32-32s-14.3-32-32-32zM704 352H320c-17.7 0-32 14.3-32 32s14.3 32 32 32h384c17.7 0 32-14.3 32-32s-14.3-32-32-32zM704 192H320c-17.7 0-32 14.3-32 32s14.3 32 32 32h384c17.7 0 32-14.3 32-32s-14.3-32-32-32zM776.7-64H247.3C146.2-64 64 18.2 64 119.3V648.7C64 749.8 146.2 832 247.3 832h529.5c101 0 183.3-82.2 183.3-183.3v-529.4C960 18.2 877.8-64 776.7-64zM247.3 768C181.5 768 128 714.5 128 648.7v-529.4c0-65.8 53.5-119.3 119.3-119.3h529.5c65.8 0 119.3 53.5 119.3 119.3V648.7c0 65.8-53.5 119.3-119.3 119.3H247.3z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
